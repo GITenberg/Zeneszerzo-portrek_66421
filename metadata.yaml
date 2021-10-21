@@ -1,11 +1,16 @@
 _repo: Zeneszerzo-portrek_66421
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Csáth, Géza
     gutenberg_agent_id: '53801'
     url: http://www.gutenberg.org/2009/agents/53801
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66421#Zeneszerzo-portrek
 gutenberg_issued: '2021-09-29'
 identifiers:
   gutenberg: '66421'
